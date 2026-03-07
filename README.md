@@ -1,3 +1,69 @@
+# 🛒 Carrito de Compras con React
+
+Aplicación web desarrollada con React y Vite que simula el funcionamiento de un carrito de compras.
+Permite agregar y eliminar productos del carrito, manteniendo la información almacenada en el navegador mediante localStorage para conservar el estado incluso después de recargar la página.
+
+---
+
+## 🚀 Tecnologías utilizadas
+
+* React
+* Vite
+* JavaScript
+* HTML
+* CSS
+* LocalStorage API
+
+---
+
+## ✨ Funcionalidades
+
+* Agregar productos al carrito
+* Eliminar productos del carrito
+* Actualización dinámica del carrito
+* Persistencia de datos usando localStorage
+* Componentes reutilizables en React
+
+---
+
+## 📚 Aprendizajes
+
+Durante el desarrollo de este proyecto practiqué:
+* Agregar contador de productos en el carrito
+* Implementar cálculo de total de compra
+* Manejo de estado en React
+* Organización de componentes
+* Persistencia de datos en el navegador con localStorage
+* Flujo de datos entre componentes
+
+---
+
+## ⚙️ Instalación y uso
+
+1. Clonar el repositorio
+
+```
+git clone URL_DEL_REPOSITORIO
+```
+
+2. Entrar al proyecto
+
+```
+cd nombre-del-proyecto
+```
+
+3. Instalar dependencias
+
+```
+npm install
+```
+
+4. Ejecutar el proyecto
+
+```
+npm run dev
+```
+---
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
